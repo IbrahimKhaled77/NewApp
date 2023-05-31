@@ -1,7 +1,7 @@
 # newsapps
 
 A new Flutter project.
-Store app using powerful API and modularize it using Flutter and we used Dio package, Shared_preferences package and Cluster state management (Cubit);
+New news publishing application Use powerful API using Flutter We used the Dio package, Shared_preferences package, and Cluster state management (Cubit);
 
 ## Getting Started
 
